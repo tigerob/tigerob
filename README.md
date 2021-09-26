@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tiger-obrien/), [Stack Overflow](https://stackoverflow.com/users/16664923/tiger)
+
 <!--
 **tigerob/tigerob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
